@@ -12,6 +12,6 @@ namespace Datos
     //seccion 2000
     public static class CadenaConexion
     {
-        public static string Cadena = "Data Source= localhost; Initial Catalog=LoginBase; User ID=root;  Password=lenguaje3";
+        public static string Cadena = "Data Source= localhost; Initial Catalog=base; User ID=root;  Password=lenguaje3";
     }
 }
